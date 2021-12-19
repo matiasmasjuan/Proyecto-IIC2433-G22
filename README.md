@@ -1,1 +1,5 @@
-# Proyecto-IIC2433-G22
+# Detección de _Fake News_ utilizando herramientas de PLN y clasificadores basados en Naive Bayes y Decision Trees
+
+> Benjamín Vicente - Belén Silva - Daniela Corral - Matías Masjuan
+
+Actualmente, comprobar la veracidad de un artículo requiere de los servicios de _fast-checking_, que mediante criterio humano y ardua investigación logran desenmascarar las _fake news_. Es por ello que se ha intentado avanzar en la automatización de estos servicios de verificación, que lograría reducir la cantidad de artículos a revisar por estos expertos. Este paper comprende el proyecto de investigación realizado dentro del curso de Minería de Datos 2021-2, que ahonda en la temática de las _fake news_ a nivel internacional y su importancia, profundiza en el área de la IA del procesamiento de lenguaje natural (PLN), utilizando algoritmos de Machine Learning tales como Naive Bayes y Decision Trees para clasificar noticias como falsas o no según su contenido. Se presentan los resultados obtenidos junto a una reflexión sobre los principales problemas que se tuvieron al momento de realizar este estudio, y se señalan posibles medidas a considerar en futuros estudios que podrían mejorar los resultados obtenidos.
